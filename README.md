@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-androidcalculator
-=================
-
-An Android Calculator App
-=======
 guessgame
 =========
 
